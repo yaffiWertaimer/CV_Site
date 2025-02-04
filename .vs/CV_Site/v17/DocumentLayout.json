@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\cacheservices\\cachegithubservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\cacheservices\\cachegithubservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\dataentities\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\dataentities\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\cacheservices\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\cacheservices\\cacherepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\controllers\\reposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\controllers\\reposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\extention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\cv_site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\cv_site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\searchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\searchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\cv_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503C96CD-E423-448A-8E05-27A8480131FD}|CV_Site\\CV_Site.csproj|solutionrelative:cv_site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TAMAR TSIGELMAN\\AppData\\Roaming\\Microsoft\\UserSecrets\\777e4c80-b922-4834-9772-8414b74f3a33\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|c:\\users\\tamar tsigelman\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\cv_site\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F348DF24-DDFD-4DCB-94A8-46C2ABC9F9DE}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheRepo.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CacheServices\\CacheRepo.cs",
+              "RelativeDocumentMoniker": "CV_Site\\CacheServices\\CacheRepo.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CacheServices\\CacheRepo.cs",
+              "RelativeToolTip": "CV_Site\\CacheServices\\CacheRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:35:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheGitHubServices.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CacheServices\\CacheGitHubServices.cs",
+              "RelativeDocumentMoniker": "CV_Site\\CacheServices\\CacheGitHubServices.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CacheServices\\CacheGitHubServices.cs",
+              "RelativeToolTip": "CV_Site\\CacheServices\\CacheGitHubServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:35:02.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\GitHubService.cs",
+              "RelativeDocumentMoniker": "Service\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\GitHubService.cs",
+              "RelativeToolTip": "Service\\GitHubService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:31:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "Service\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\IGitHubService.cs",
+              "RelativeToolTip": "Service\\IGitHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:07:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\DataEntities\\Repo.cs",
+              "RelativeDocumentMoniker": "Service\\DataEntities\\Repo.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\DataEntities\\Repo.cs",
+              "RelativeToolTip": "Service\\DataEntities\\Repo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:12:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\Program.cs",
+              "RelativeDocumentMoniker": "CV_Site\\Program.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\Program.cs",
+              "RelativeToolTip": "CV_Site\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:56:17.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CV_Site",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CV_Site.csproj",
+              "RelativeDocumentMoniker": "CV_Site\\CV_Site.csproj",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\CV_Site.csproj",
+              "RelativeToolTip": "CV_Site\\CV_Site.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T19:54:25.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReposController.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\Controllers\\ReposController.cs",
+              "RelativeDocumentMoniker": "CV_Site\\Controllers\\ReposController.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\Controllers\\ReposController.cs",
+              "RelativeToolTip": "CV_Site\\Controllers\\ReposController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:01:52.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extention.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\Extention.cs",
+              "RelativeDocumentMoniker": "Service\\Extention.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\Extention.cs",
+              "RelativeToolTip": "Service\\Extention.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:19:42.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GitHubIntegrationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\GitHubIntegrationOptions.cs",
+              "RelativeDocumentMoniker": "Service\\GitHubIntegrationOptions.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\GitHubIntegrationOptions.cs",
+              "RelativeToolTip": "Service\\GitHubIntegrationOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:30:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T18:34:02.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\appsettings.json",
+              "RelativeDocumentMoniker": "CV_Site\\appsettings.json",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\appsettings.json",
+              "RelativeToolTip": "CV_Site\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:39:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\AppData\\Roaming\\Microsoft\\UserSecrets\\777e4c80-b922-4834-9772-8414b74f3a33\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\777e4c80-b922-4834-9772-8414b74f3a33\\secrets.json",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\AppData\\Roaming\\Microsoft\\UserSecrets\\777e4c80-b922-4834-9772-8414b74f3a33\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\777e4c80-b922-4834-9772-8414b74f3a33\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T19:54:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\SearchRepo.cs",
+              "RelativeDocumentMoniker": "CV_Site\\SearchRepo.cs",
+              "ToolTip": "C:\\Users\\TAMAR TSIGELMAN\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05E9\u05E4\u0027\u0027\u05D3\\CV_Site\\CV_Site\\SearchRepo.cs",
+              "RelativeToolTip": "CV_Site\\SearchRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:46:59.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
