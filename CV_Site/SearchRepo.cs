@@ -7,6 +7,6 @@ namespace CV_Site
        
         public string Name { get; set; } = "";
         public  Language Language { get; set; }=Language.CSharp;
-        public string UserName { get; set; } = "tamar9458";
+        public string UserName { get; set; } = "yaffiWertaimer";
     }
 }
